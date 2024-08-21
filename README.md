@@ -1,5 +1,7 @@
 # BankApp
 
+![pic](https://github.com/user-attachments/assets/de73997d-1130-43cc-bf02-70392b7cf764)
+
 Command-Line Banking System 🚀
 Description
 This project is a Command-Line Based Banking System built using Java and integrated with a MySQL database via JDBC. The system allows users to register, log in, manage accounts, check balances, and securely perform transactions like debiting, crediting, and transferring money. Exception handling is implemented to ensure smooth and error-free operation.
@@ -36,4 +38,6 @@ Database Schema 🗄️
 user Table: Stores user account details (accNo, fullName, age, profession, email, pin, balance).
 register Table: Holds information about user accounts (fullName, email, password).
 
-![pic](https://github.com/user-attachments/assets/de73997d-1130-43cc-bf02-70392b7cf764)
+![schema](https://github.com/user-attachments/assets/74cba3c1-a64f-4e2c-9258-06b4e39af530)
+
+
