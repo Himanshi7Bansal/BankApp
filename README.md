@@ -40,4 +40,8 @@ register Table: Holds information about user accounts (fullName, email, password
 
 ![schema](https://github.com/user-attachments/assets/74cba3c1-a64f-4e2c-9258-06b4e39af530)
 
+Contributing 🤝
+Feel free to contribute to this project by opening a pull request! Whether it’s bug fixes, new features, or suggestions, I’m open to collaboration.
 
+License 📝
+This project is open-source and available under the MIT License.
